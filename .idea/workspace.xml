@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="temp2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4fe40ca-2c99-4769-871c-4872fc2ee219" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtATfT4zGQgX5o2BUB29QRRCvh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JAR Application.temp2.jar">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emelianova.ui.Main" />
+      <module name="temp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emelianova.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="temp2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/temp2_jar/temp2.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.temp2.jar" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4fe40ca-2c99-4769-871c-4872fc2ee219" name="Default Changelist" comment="" />
+      <created>1583751525844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583751525844</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1583753045388">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1583753045388" />
+    <state x="479" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1583808640983">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="479" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583808640983" />
+    <state x="458" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583811212805">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1583811212805" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1583811237726">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583811237726" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1583811001646" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1583811237725">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583811237725" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1583811001644" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1583811237724">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583811237724" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1583811001643" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1583811237725">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583811237725" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1583811001645" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1583752337686">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1583752337686" />
+    <state x="208" y="23" width="1024" height="827" key="SettingsEditor" timestamp="1583811224879">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="23" width="1024" height="827" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583811224879" />
+    <state x="149" y="154" key="new project wizard" timestamp="1583780171030">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="149" y="154" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1583780171030" />
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1583752309375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583752309375" />
+  </component>
+</project>

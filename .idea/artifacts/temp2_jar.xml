@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="temp2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/temp2_jar</output-path>
+    <root id="archive" name="temp2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="temp2" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/adobe/xmp/xmpcore/6.0.6/xmpcore-6.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/drewnoakes/metadata-extractor/2.13.0/metadata-extractor-2.13.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
