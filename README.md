@@ -9,8 +9,14 @@ This is an app that shows the following informations about image files:
 
 Please note that not all of this information might be available. For example, some file formats (such as GIF) do not specify resolution. Other formats allow some of the fields to be empty.
 
+For extracting this information from the file I've used [metadata-extractor](https://github.com/drewnoakes/metadata-extractor).
+
 
 ## Usage
 ![alt text](./ui.png)
 
 Pick a directory or a file using one of the buttons above. The list of image files with their selected attibutes will appear.
+
+## Structure
+- [ui](src/main/java/com/emelianova/ui) is a JavaFX class that handles user interface
+- [imageinfo](src/main/java/com/emelianova/ui) is a simple class that extracts attibutes from image files
