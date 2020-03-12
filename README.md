@@ -7,7 +7,7 @@ This is an app that shows the following informations about image files:
 - color depth (in bits per pixel)
 - compression
 
-Please note that not all of this information might be available. For example, some file formats (such as GIF) do not specify resolution. Other formats allow some of the fields to be empty. __Also, apparently some of the testing files' names and their contents are not the same.__ (For example, ```1305х864х183RLE.bmp``` contains uncompressed data.
+Please note that not all of this information might be available. For example, some file formats (such as GIF) do not specify resolution. Other formats allow some of the fields to be empty. __Also, apparently some of the testing files' names and their contents are not the same.__ (For example, ```1305х864х183RLE.bmp``` contains uncompressed data).
 
 For extracting this information from the file I've used [metadata-extractor](https://github.com/drewnoakes/metadata-extractor).
 
